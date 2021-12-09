@@ -1,0 +1,49 @@
+{
+  "movies": [
+    {
+      "Title": "Maharshi",
+      "Director": "Vamshi Paidipally",
+      "Actors": "Mahesh Babu, Allari Naresh, Patricia Pinto, Pooja Hegde",
+      "Year": "2019",
+      "Released": "08 May 2019",
+      "Runtime": "176 min",
+      "Language": "Telugu",
+      "Awards": "N/A",
+      "Country": "India, USA",
+      "Plot": "Rishi, a millionaire businessman, returns to his homeland, where he becomes the champion of poor and downtrodden farmers.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ3YzkyMjEtNGFmYi00Y2QzLTg4NjItODMzNWQ0NzBiYWEzXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_SX300.jpg",
+      "Rating": "9",
+      "id": 1
+    },
+    {
+      "Title": "Sarileru Neekevvaru",
+      "Director": "Anil Ravipudi",
+      "Actors": "Mahesh Babu, Rashmika Mandanna, Vijayshanti, Prakash Raj",
+      "Year": "2020",
+      "Released": "10 Jan 2020",
+      "Runtime": "169 min",
+      "Language": "Telugu, Kannada, Malayalam",
+      "Awards": "N/A",
+      "Country": "India",
+      "Plot": "A tough army major is deployed to Kurnool on a mission to keep the country safe from external threats.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODllNjZkODEtMGRkNS00YWQzLTg3MTYtMzg2N2U0ODI0Zjk0XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_SX300.jpg",
+      "Rating": "9",
+      "id": 3
+    },
+    {
+      "Title": "Dookudu",
+      "Director": "Sreenu Vaitla",
+      "Actors": "Mahesh Babu, Samantha Ruth Prabhu, Sonu Sood, Srinivasa Rao Kota",
+      "Year": "2011",
+      "Released": "23 Sep 2011",
+      "Runtime": "170 min",
+      "Language": "Telugu",
+      "Awards": "32 wins & 4 nominations.",
+      "Country": "India",
+      "Plot": "Ajay, (Mahesh Babu) an undercover cop, is assigned to catch a dangerous mafia don with whom he has a personal score to settle.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjg4OTgwNTExNF5BMl5BanBnXkFtZTcwMTMzNTM4Ng@@._V1_SX300.jpg",
+      "Rating": "3",
+      "id": 4
+    }
+  ]
+}
